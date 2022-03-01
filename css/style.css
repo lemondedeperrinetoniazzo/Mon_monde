@@ -70,7 +70,7 @@ p{
 }
 .description1_1{
     text-align: center;
-    padding-left: 20%;
+    padding-left: 25%;
 }
 
 #image1{
@@ -84,8 +84,7 @@ p{
     display: inline-table;
     width: 17%;
     transform: rotate(90deg);
-
-    
+    padding-left: -10%;
 }
 
 #image1_2{
