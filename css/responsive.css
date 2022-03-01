@@ -1,0 +1,43 @@
+@media(max-width:1050px){
+    #rose{
+        margin-right: 0;
+    }
+    #titre1{
+        font-size: 35px;
+    }
+    #titre2{
+        font-size: 25px;
+    }
+    
+    p{
+        font-size: 20px;
+    }
+    #presentation{
+        margin-top:20%;
+    }
+}
+/*pour téléphone*/
+@media(max-width: 500px){
+    #rose{
+        margin-right: -15px;
+        margin-top: -50px;
+    }
+    p{
+        font-size: 10px;
+    }
+    .title{
+        font-size: 15px;
+    }
+    #titre1{
+        font-size: 20px;
+    }
+    #titre2{
+        font-size: 15px;
+    }
+    #presentation{
+        margin-top: 30%;
+    }
+    #dessins1{
+        margin-top: 70%;
+    }
+}

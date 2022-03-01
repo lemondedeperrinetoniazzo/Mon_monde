@@ -1,0 +1,165 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+}
+header{
+    width: 100%;
+    
+    top: 0;
+    position: absolute;
+}
+#titre1{
+    text-align: center;
+    color: pink;
+    font-weight: bold;
+    font-size: 40px;
+}
+#titre2{
+    text-align: center;
+    color: pink;
+    font-size: 30px;
+    font-weight: bold;
+}
+p{
+    font-size: 25px;
+}
+#rose{
+    height: auto;
+    width: 15%;
+    margin-top: -100px;
+    float:right;
+    margin-right: 300px;
+    
+}
+
+#presentation{    
+    width: 100%;
+    display: inline-flex;
+    align-items: center;
+    margin-left: 15%;
+    margin-top: 15%;
+    position: absolute;
+}
+
+#perrine{
+    width: 20%;
+}
+
+#textPresentation{
+    padding-left: 10%;
+}
+
+.title{
+    font-size: 35px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#dessins1{
+    height: 50px;
+    width: 100%;
+    margin-top: 60%;
+
+}
+
+#description1{
+    display: inline-flex;
+    padding-left:5%;
+    width: 100%;
+}
+.description1_1{
+    text-align: center;
+    padding-left: 25%;
+}
+
+#image1{
+    width: 17%;
+    padding-right: 10%;
+    height: auto;
+    padding-left: 5%;
+}
+
+.image1_1{
+    display: inline-table;
+    width: 17%;
+    transform: rotate(90deg);
+
+    
+}
+
+#image1_2{
+    width: 30%;
+    height: auto;
+    padding-left: 2%;
+}
+
+#image1_5{
+    width: 17%;
+    padding-left: 5%;
+    height: auto;
+    padding-right: 8%;
+}
+
+#image1_6{
+    width: 16%;
+    padding-left: 5%;
+    height: auto;
+    padding-right: 15%;
+}
+
+#image1_7{
+    width: 10.1%;
+}
+
+#description2{
+    display: inline-flex;
+    padding-left: 5%;
+    width: 100%;
+    padding-top: 10%;
+}
+
+#description5{
+    width: 30%;
+    display: inline;
+    padding-left: 12%;
+}
+
+#description6{
+    width: 100%;
+}
+
+#image1_8{
+    width: 17%;
+    padding-left: 5%;
+    padding-right: 13%;
+}
+
+#image1_9{
+    width: 15.9%;
+    padding-right: 17%;
+}
+
+#image1_10{
+    transform: rotate(90deg);
+    width: 20%;
+}
+
+#description3{
+    display: inline-flex;
+    padding-left: 5%;
+    width: 100%;
+    padding-top: 10%; 
+}
+
+#description7{
+    width: 100%;
+}
+
+#descrition8{
+    width: 100%;
+}
+
+#description9{
+    width: 100%;
+}
