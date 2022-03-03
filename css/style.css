@@ -264,6 +264,7 @@ p{
 #image1_26{
     width: 23%;
     padding-left: 5%;
+    transform: rotate(90deg);
 }
 
 #image1_27{
