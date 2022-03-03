@@ -261,12 +261,19 @@ p{
     padding-left: 5%;
 }
 
-#image1_26{
-    width: 23%;
-    padding-left: 5%;
-    transform: rotate(90deg);
-}
 
 #image1_27{
     width: 20%;
+    padding-left: 5%;
+    padding-top: 10%;
+}
+
+#image1_28{
+    width: 21.2%;
+    padding-left: 15%
+}
+
+#image1_30{
+    width: 33.3%;
+    padding: 5%;
 }
