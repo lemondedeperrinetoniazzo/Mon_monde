@@ -294,3 +294,13 @@ p{
     padding-top: 10%;
 }
 
+#boutton{
+    padding-left: 45%;
+    padding-top: 10%;
+}
+
+#body2{
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+}
