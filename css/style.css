@@ -275,5 +275,21 @@ p{
 
 #image1_30{
     width: 33.3%;
-    padding: 5%;
+    padding-left: 5%;
+}
+
+#image1_31{
+    width: 33.3%;
+    padding-left: 5%;
+}
+
+#image1_32{
+    width: 16.6%;
+    padding-left: 5%;
+}
+
+#image1_33{
+    width: 33.3%;
+    padding-left: 5%;
+    padding-top: 10%;
 }
