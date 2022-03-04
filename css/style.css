@@ -54,7 +54,7 @@ p{
     font-size: 35px;
     font-weight: bolder;
     text-align: center;
-    padding-top: 10%;
+    padding-top: 20%;
 }
 
 #dessins1{
@@ -101,7 +101,7 @@ p{
 
 .description2_1{
     text-align: center;
-    padding-left: 18.5%;
+    padding-left: 17%;
 }
 
 #image1_5{
@@ -204,7 +204,7 @@ p{
 }
 
 #description7_1{
-    padding-left: 24%;
+    padding-left: 22%;
 }
 
 #image1_17{
@@ -284,19 +284,23 @@ p{
 }
 
 #image1_32{
-    width: 16.6%;
+    width: 16%;
     padding-left: 5%;
 }
 
 #image1_33{
     width: 33.3%;
     padding-left: 5%;
-    padding-top: 10%;
+    padding-top: 5%;
+    padding-bottom: 10%; 
 }
 
 #boutton{
     padding-left: 45%;
-    padding-top: 10%;
+    padding-top: 2%;
+    padding-bottom: 10%; 
+    width: 20%;
+    height: 20%;
 }
 
 #body2{
@@ -380,7 +384,6 @@ p{
 #image2_13{
     width: 20%;
     padding-left: 5%;
-    padding-top: 10%;
 }
 
 
@@ -407,21 +410,8 @@ p{
     padding-top: 10%;
 }
 
-#image2_18{
-    width: 20%;
-    padding-left: 15%;
-    transform: rotate(-90deg);
-}
-
-#image2_19{
-    width: 22.4%;
-    padding-left: 15%;
-    transform: rotate(-90deg);
-}
-
-
 #image2_20{
-    width: 21%;
+    width: 23.3%;
     padding-left: 5%;
     padding-top: 10%;
 }
@@ -432,6 +422,9 @@ p{
 }
 
 
+
+
+
 #image2_22{
     width: 20%;
     padding-left: 5%;
@@ -440,152 +433,201 @@ p{
 
 
 #image2_23{
-    width: 33.3%;
+    width: 37.3%;
     padding-left: 5%
 }
 
 
 #image2_24{
-    width: 20%;
+    width: 19%;
     padding-left: 5%;
 }
 
 
 #image2_25{
-    width: 20%;
+    width: 33.3%;
     padding-left: 5%;
     padding-top: 10%;
 }
 
 
 #image2_26{
-    width: 20%;
-    padding-left: 15%;
+    width: 39.3%;
+    padding-left: 5%;
 }
 
 
 #image2_27{
     width: 20%;
-    padding-left: 15%;
+    padding-left: 5%;
+    padding-top: 10%;
 }
 
 
+
 #image2_28{
-    width: 20%;
+    width: 49%;
     padding-left: 5%;
-    padding-top: 10%;
 }
 
 
 #image2_29{
     width: 20%;
-    padding-left: 15%;
-}
-
-
-#image2_30{
-    width: 20%;
-    padding-left: 15%;
-}
-
-
-#image2_31{
-    width: 20%;
     padding-left: 5%;
     padding-top: 10%;
+}
+
+#image2_31{
+    width: 17.4%;
+    padding-left: 10%;
 }
 
 
 #image2_32{
-    width: 20%;
-    padding-left: 15%;
+    width: 35.3%;
+    padding-left: 10%;
 }
 
 
 #image2_33{
-    width: 20%;
-    padding-left: 15%;
-}
-
-
-#image2_34{
-    width: 20%;
+    width:33.3%;
     padding-left: 5%;
     padding-top: 10%;
 }
 
 
+#image2_34{
+    width: 44.3%;
+    padding-left: 5%;
+}
+
+
 #image2_35{
-    width: 20%;
-    padding-left: 15%;
+    width: 29%;
+    padding-left: 5%;
+    padding-top: 10%;
 }
 
 
 #image2_36{
     width: 20%;
-    padding-left: 15%;
+    padding-left: 10%;
 }
 
 
 #image2_37{
-    width: 20%;
-    padding-left: 5%;
-    padding-top: 10%;
+    width: 21.7%;
+    padding-left: 10%;
 }
 
 
 #image2_38{
     width: 20%;
-    padding-left: 15%;
-}
-
-
-#image2_39{
-    width: 20%;
-    padding-left: 15%;
-}
-
-
-#image2_40{
-    width: 20%;
     padding-left: 5%;
     padding-top: 10%;
 }
 
 
-#image2_41{
-    width: 20%;
-    padding-left: 15%;
+#image2_39{
+    width: 40.4%;
+    padding-left: 5%;
+}
+
+
+#image2_40{
+    width: 24%;
+    padding-left: 4%;
 }
 
 
 #image2_42{
     width: 20%;
-    padding-left: 15%;
-}
-
-
-#image2_43{
-    width: 20%;
     padding-left: 5%;
     padding-top: 10%;
 }
 
 
+#image2_43{
+    width: 26.7%;
+    padding-left: 10%;
+}
+
+
 #image2_44{
-    width: 20%;
-    padding-left: 15%;
+    width: 20.5%;
+    padding-left: 10%;
 }
 
 
 #image2_45{
     width: 20%;
-    padding-left: 15%;
+    padding-left: 5%;
+    padding-top: 10%;
 }
 
 
 #image2_46{
-    width: 20%;
+    width: 19%;
+    padding-left: 10%;
+}
+
+#image2_47{
+    width: 37.3%;
     padding-left: 5%;
     padding-top: 10%;
+}
+
+#image2_49{
+    width: 20%;
+    padding-left: 5%;
+}
+
+#image2_50{
+    width: 20%;
+    padding-left: 5%;
+}
+
+
+#image2_52{
+    width: 15%;
+    padding-left: 5%;
+}
+
+#image2_53{
+    width: 39%;
+    padding-left: 2%;
+}
+
+#image2_54{
+    width: 33%;
+    padding-left: 2%;
+}
+
+#image2_55{
+    width: 30%;
+    padding-left: 5%;
+    padding-top: 10%;
+}
+
+#image2_56{
+    width: 30%;
+    padding-left: 1%;
+}
+
+#image2_57{
+    width: 32%;
+    padding-left: 1%;
+}
+
+#image2_58{
+    width: 30%;
+    padding-left: 5%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+#image2_59{
+    width: 30%;
+    padding-left: 5%;
+    padding-bottom: 10%;    
 }
