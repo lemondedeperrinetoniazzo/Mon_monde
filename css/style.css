@@ -631,13 +631,11 @@ p{
     width: 30%;
     padding-left: 5%;
     padding-top: 10%;
-    padding-bottom: 10%;
 }
 
 #image2_59{
     width: 30%;
-    padding-left: 5%;
-    padding-bottom: 10%;   
+    padding-left: 5%; 
 }
 
 #description9{
@@ -778,7 +776,7 @@ padding-left:10%;
 }
 
 #description22_2{
-    padding-left:25%;
+    padding-left:28%;
     }
 
 #description23{
@@ -788,7 +786,7 @@ padding-left:10%;
 }
 
 #description23_1{
-    padding-left:21.5%;
+    padding-left:25%;
     }
 
 #description24{
@@ -797,10 +795,19 @@ padding-left:10%;
     width: 100%;
 }
 
+#description24_1{
+    padding-left: 10%;
+}
+
+
 #description25{
     display: inline-flex;
     padding-left:5%;
     width: 100%;
+}
+
+#description25_1{
+    padding-left: 18%;
 }
 
 #description26{
@@ -809,10 +816,22 @@ padding-left:10%;
     width: 100%;
 }
 
+#description26_1{
+    padding-left: 27%;
+}
+
 #description27{
     display: inline-flex;
     padding-left:5%;
     width: 100%;
+}
+
+#description27_1{
+    padding-left: 22%;
+}
+
+#description27_2{
+    padding-left: 14%;
 }
 
 #description28{
@@ -827,22 +846,22 @@ padding-left:10%;
     width: 100%;
 }
 
+#description29_1{
+    padding-left: 16%;
+}
+
 #description30{
     display: inline-flex;
     padding-left:5%;
     width: 100%;
 }
 
-#description31{
-    display: inline-flex;
-    padding-left:5%;
-    width: 100%;
+#description30_1{
+    padding-left: 27%;
 }
 
-#description32{
-    display: inline-flex;
-    padding-left:5%;
-    width: 100%;
+#description30_2{
+    padding-left: 10%;
 }
 
 #description33{
@@ -851,11 +870,30 @@ padding-left:10%;
     width: 100%;
 }
 
+#description33_1{
+    padding-left: 15%;
+}
+#description33_2{
+    padding-left: 22%;
+}
+
 #description34{
     display: inline-flex;
     padding-left:5%;
     width: 100%;
 }
 
+#description34_1{
+    padding-left: 18%;
+}
 
+#description35{
+    display: inline-flex;
+    padding-left:5%;
+    width: 100%;
+}
+
+#description35_1{
+    padding-left: 10%;
+}
 
